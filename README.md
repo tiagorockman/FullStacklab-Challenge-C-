@@ -1,4 +1,4 @@
-## Migrations
+## Migrations and Reports
 --Instal .NET EF Globally
 -dotnet tool install --global dotnet-ef
 -dotnet tool uninstall --global dotnet-ef --> Remove global
